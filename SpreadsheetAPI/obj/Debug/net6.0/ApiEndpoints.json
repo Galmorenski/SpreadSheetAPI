@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "SpreadsheetAPI.Controllers.SpreadSheetController",
+    "Method": "CreateSpreadSheet",
+    "RelativePath": "api/v1/spreadsheets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "spreadSheetDTO",
+        "Type": "SpreadsheetAPI.Models.Requests.CreateSpreadSheetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpreadsheetAPI.Controllers.SpreadSheetController",
+    "Method": "UpdateCellValue",
+    "RelativePath": "api/v1/spreadsheets",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCellDTO",
+        "Type": "SpreadsheetAPI.Models.Requests.UpdateCellDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpreadsheetAPI.Controllers.SpreadSheetController",
+    "Method": "GetSpreadSheet",
+    "RelativePath": "api/v1/spreadsheets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\dal\\spreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\dal\\spreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\dal\\ispreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\dal\\ispreadsheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\models\\settings\\spreadsheetdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\models\\settings\\spreadsheetdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C0146-4A08-4E5F-96CB-53FED5FF3D72}|Spreadsheet.Tests\\Spreadsheet.Tests.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheet.tests\\spreadsheetcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C0146-4A08-4E5F-96CB-53FED5FF3D72}|Spreadsheet.Tests\\Spreadsheet.Tests.csproj|solutionrelative:spreadsheet.tests\\spreadsheetcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\dal\\entities\\spreadsheetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\dal\\entities\\spreadsheetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|c:\\users\\galmo\\source\\repos\\spreadsheetapi\\spreadsheetapi\\dal\\entities\\columndao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E018F779-9F90-4D64-8EF1-CC77E483682C}|SpreadsheetAPI\\SpreadsheetAPI.csproj|solutionrelative:spreadsheetapi\\dal\\entities\\columndao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpreadSheetService.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\SpreadSheetService.cs",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\DAL\\SpreadSheetService.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\SpreadSheetService.cs",
+              "RelativeToolTip": "SpreadsheetAPI\\DAL\\SpreadSheetService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:11:16.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISpreadSheetService.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\ISpreadSheetService.cs",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\DAL\\ISpreadSheetService.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\ISpreadSheetService.cs",
+              "RelativeToolTip": "SpreadsheetAPI\\DAL\\ISpreadSheetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:11:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpreadSheetDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\Models\\Settings\\SpreadSheetDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\Models\\Settings\\SpreadSheetDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\Models\\Settings\\SpreadSheetDatabaseSettings.cs",
+              "RelativeToolTip": "SpreadsheetAPI\\Models\\Settings\\SpreadSheetDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:11:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\appsettings.json",
+              "RelativeToolTip": "SpreadsheetAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T21:02:07.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpreadSheetDAO.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\Entities\\SpreadSheetDAO.cs",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\DAL\\Entities\\SpreadSheetDAO.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\Entities\\SpreadSheetDAO.cs",
+              "RelativeToolTip": "SpreadsheetAPI\\DAL\\Entities\\SpreadSheetDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:14:29.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColumnDAO.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\Entities\\ColumnDAO.cs",
+              "RelativeDocumentMoniker": "SpreadsheetAPI\\DAL\\Entities\\ColumnDAO.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\SpreadsheetAPI\\DAL\\Entities\\ColumnDAO.cs",
+              "RelativeToolTip": "SpreadsheetAPI\\DAL\\Entities\\ColumnDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:09:32.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpreadSheetControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\Spreadsheet.Tests\\SpreadSheetControllerTests.cs",
+              "RelativeDocumentMoniker": "Spreadsheet.Tests\\SpreadSheetControllerTests.cs",
+              "ToolTip": "C:\\Users\\galmo\\source\\repos\\SpreadsheetAPI\\Spreadsheet.Tests\\SpreadSheetControllerTests.cs",
+              "RelativeToolTip": "Spreadsheet.Tests\\SpreadSheetControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T16:58:33.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
